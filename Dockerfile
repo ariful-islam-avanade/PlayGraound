@@ -1,4 +1,4 @@
-FROM https://github.com/ariful-islam-avanade/PlayGraound.git
+FROM searifulislam/smn-repo
 WORKDIR /PlayGraound
 COPY ["PlayGround.csproj", "PlayGround/"]
 
